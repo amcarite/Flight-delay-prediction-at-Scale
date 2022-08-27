@@ -1,4 +1,6 @@
-# Flight-delay-prediction-at-Scale
+# Flight-delay-prediction-at-Scale Report
+
+This report discuss the problem being addressed, results, and conclusion. Two notebooks are also provided in this repo that displays the code used to determine the results. 
 
 ### Abstract
 
